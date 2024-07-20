@@ -3,6 +3,13 @@ BrainTumorNet: A Lightweight CNN Model for Brain Tumor Segmentation
 ## Overview
 BrainTumorNet is a lightweight Convolutional Neural Network (CNN) designed for the segmentation of brain tumors in MRI images. This model offers a streamlined approach to identify and delineate tumor regions accurately, reducing computational complexity while maintaining high segmentation performance.
 
+# Members
+- Urvi Kashyap‬ - 21BCE10504‬‭
+- Ruchika Roy‬ - 21BCE10120‬‭ 
+- Sanay Singh Rajawat‬ - 21BCE10781‬‭
+- ‬‭Md. Belal Afzal‬ - 21BCE10643
+- ‬‭Shashwath Bhaskar - 21BCE10646
+
 ## Features
 - Lightweight Architecture: Optimized CNN model with fewer layers for reduced computational overhead.
 - Attention Mechanism: Incorporates an attention mechanism to highlight important regions, enhancing segmentation accuracy.
