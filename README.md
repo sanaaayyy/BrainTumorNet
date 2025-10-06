@@ -1,7 +1,7 @@
-# BrainTumorNet
-BrainTumorNet: A Lightweight CNN Model for Brain Tumor Segmentation
+# BRAUSS-NET
+BRAUSS-NET: A Lightweight CNN Model for Brain Tumor Segmentation
 ## Overview
-BrainTumorNet is a lightweight Convolutional Neural Network (CNN) designed for the segmentation of brain tumors in MRI images. This model offers a streamlined approach to identify and delineate tumor regions accurately, reducing computational complexity while maintaining high segmentation performance.
+BRAUSS-NET is a lightweight Convolutional Neural Network (CNN) designed for the segmentation of brain tumors in MRI images. This model offers a streamlined approach to identify and delineate tumor regions accurately, reducing computational complexity while maintaining high segmentation performance.
 
 ### Members
 - Urvi Kashyap‬
